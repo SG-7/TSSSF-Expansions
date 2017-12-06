@@ -34,7 +34,7 @@ Keywords:
 OC, Gamer, Murf n' Nyan
 Ability:
 Loyal Stallion: If Chaos Beat is
-shipped with two or more Females at one
+shipped with two or more {female} at one
 time, discard all Ponies attached to
 this card by a Ship.
 Flavor Text:
@@ -52,7 +52,8 @@ Murf n' Nyan Productions
 Keywords:
 OC, Murf n' Nyan
 Ability:
-The Dandy (Replace): While in your hand, you may discard a Pony card from the grid and play this card in its place. This power cannot be copied.
+The Dandy (Replace): While in your hand, you may discard a Pony card from the grid and play this card in its place.
+This power cannot be copied.
 Flavor Text:
 "Even though he's a bit out of time,
 he still catches every mare's attention."
@@ -74,8 +75,7 @@ cards on the shipping grid. Neither of
 their powers activate.
 Flavor Text:
 "I got some good footage, but I had to film it
-out of order.
-I'll fix it in editing."
+out of order. I'll fix it in editing."
 - The Chaos Chronicles
 
 Lavender Spell
@@ -98,15 +98,6 @@ Flavor Text:
 
 SHIPS:
 
-You've Been Justice'd
-Expansion:
-Murf n' Nyan Productions
-Ability:
-If one of the Ponies in this ship is Checker Shade, increase your hand size by one. This ability can only be used once per player. Effects from this card are permanent.
-Flavor Text:
-"The rave was loud and the dancing wild. He started kissing her and she kissed back, until she realized what was happening..."
-- The Chaos Chronicles
-
 Magical Shockwave
 Expansion:
 Murf n' Nyan Productions
@@ -120,6 +111,14 @@ Flavor Text:
 "The spell should create a sort of portal between my music and the ponies who want to listen to it. I want to try it, but there are so many mares around. They make me nervous."
 - The Chaos Chronicles
 
+You've Been Justice'd
+Expansion:
+Murf n' Nyan Productions
+Ability:
+If one of the Ponies in this ship is Checker Shade, increase your hand size by one. This ability can only be used once per player. Effects from this card are permanent.
+Flavor Text:
+"The rave was loud and the dancing wild. He started kissing her and she kissed back, until she realized what was happening..."
+- The Chaos Chronicles
 
 GOALS:
 
