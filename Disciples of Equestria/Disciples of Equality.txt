@@ -19,31 +19,31 @@ Flavor:
 - Fallout Equestria: Disciples of Equality
 
 Name:
-
+Lens Flare
 Gender:
-
+Male
 Race:
 Pegasus
 Time
 Keywords:
 Disciples of Equality
 Ability:
-
+Blinding Light (Shuffle): You may shuffle all players' hands together and re-deal the cards out equally.
 Flavor:
-""
+"Tell you what, we'll throw all our gear in the same pile and pick stuff out one at a time until it's all gone. That way it's equal and fair..."
 - Fallout Equestria: Disciples of Equality
 
 Name:
 
 Gender:
-
+Female
 Race:
 Earth
 Time
 Keywords:
 OC, Disciples of Equality
 Ability:
-
+You may discard 1 active Goal and draw 1 new Goal to replace it.
 Flavor:
 ""
 - Fallout Equestria: Disciples of Equality
@@ -115,7 +115,7 @@ Charm of the Wasteland
 Ability:
 
 Flavor:
-""
+"I'm not sure if that's the radiation or something else, but in my eyes, she's glowing."
 - Fallout Equestria: Disciples of Equality
 
 GOALS:

@@ -19,6 +19,8 @@ A pack of nine cards based on a story I was going to write in the Fallout Equest
 ### Card List
 Pony - Eris Medley,
 Pony - Starlight Breeze,
+Pony - Lens Flare,
+Pony - (Unnamed Female Earth Pony),
 Pony - Knuteson,
 Ship - Charm of the Wasteland,
 Goal - Worldine Σ
