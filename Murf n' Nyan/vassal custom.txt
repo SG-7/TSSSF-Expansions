@@ -1,0 +1,7 @@
+vassal expansion rules.
+
+Card size 260 x 359
+Saving:
+Ships - Ship_The Full Name
+Goals - Goal_The Full Name
+Ponies - Pony_The Full Name

@@ -1,0 +1,131 @@
+Copyright:
+Disciples of Equality; TSSSF by Horrible People Games.  Art by Chaos Beat.
+
+PONIES:
+
+Name:
+Eris Medley
+Gender:
+Female
+Race:
+Unicorn
+Time
+Keywords:
+Disciples of Equality
+Ability:
+Convergence (Reset): When 7 ponies with the Disciples of Equality keyword are on the grid, discard all Ships attached to the Start card.
+Flavor:
+"My sweet little Eris, you should be safe now. I hope so at least, as safe as you can be, but there's something you need to know. Some time ago, I brought my friends and myself to this place from another world, another time. You may have the same ability, or something similar. You might be able to fix this world, reset it..."
+- Fallout Equestria: Disciples of Equality
+
+Name:
+
+Gender:
+
+Race:
+Pegasus
+Time
+Keywords:
+Disciples of Equality
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+Name:
+
+Gender:
+
+Race:
+Earth
+Time
+Keywords:
+OC, Disciples of Equality
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+Name:
+Starlight Breeze
+Gender:
+Female
+Race:
+Alicorn
+Time
+Keywords:
+Disciples of Equality
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+Name:
+
+Gender:
+
+Race:
+Zebra
+Time
+Keywords:
+Disciples of Equality
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+Name:
+
+Gender:
+
+Race:
+Griffon
+Time
+Keywords:
+Disciples of Equality
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+Name:
+Knuteson
+Gender:
+Male
+Race:
+Minotaur
+Time
+Keywords:
+Disciples of Equality
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+SHIPS:
+
+Name:
+Charm of the Wasteland
+Ability:
+
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
+
+GOALS:
+
+Name:
+Worldline Σ
+Points:
+3-4
+Objective:
+Win this Goal when: The grid is reset to only the Start card. This Goal is worth 4 points if Eris Medley's ability is used.
+Flavor:
+""
+- Fallout Equestria: Disciples of Equality
