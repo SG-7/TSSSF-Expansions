@@ -34,7 +34,7 @@ Flavor:
 - Fallout Equestria: Disciples of Equality
 
 Name:
-
+Tulip Wisp
 Gender:
 Female
 Race:
@@ -45,7 +45,7 @@ OC, Disciples of Equality
 Ability:
 You may discard 1 active Goal and draw 1 new Goal to replace it.
 Flavor:
-""
+"I found some supplies in the lockbox over there. Pretty good stuff too, considering it cost me a bobby pin."
 - Fallout Equestria: Disciples of Equality
 
 Name:
@@ -58,9 +58,9 @@ Time
 Keywords:
 Disciples of Equality
 Ability:
-
+Tainted Love (Swap): {3swap}
 Flavor:
-""
+"Invisibility and Telepathy are powerful tools for getting ponies to do what you want."
 - Fallout Equestria: Disciples of Equality
 
 Name:
