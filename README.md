@@ -14,13 +14,17 @@ Ship - You've Been Justice'd,
 Goal - Lover's Lightning,
 Goal - Murf n' Nyan Productions
 
+## Murf n' Nyan Expansion 2 - TBA
+Not sure if this will end up being completed. There are a few ideas that have been written down, but we'll see.
+
 ## Fallout Equestria: Disciples of Equality - WIP
-A pack of nine cards based on a story I was going to write in the Fallout Equestria universe. The Disciples of Equality follow the teachings of Starlight Glimmer (pre-redemption) and treat everyone as equals. However, her daughter may be able to end the fighting in the wasteland once and for all.
+A pack of nine (or more) cards based on a story I was going to write in the Fallout Equestria universe. The Disciples of Equality follow the teachings of Starlight Glimmer (pre-redemption) and treat everyone as equals. However, her daughter may be able to end the fighting in the wasteland once and for all.
 ### Card List
 Pony - Eris Medley,
 Pony - Starlight Breeze,
 Pony - Lens Flare,
 Pony - Tulip Breeze,
+Pony - Skaak,
 Pony - Knuteson,
 Ship - Charm of the Wasteland,
 Goal - Worldine Σ

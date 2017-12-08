@@ -64,9 +64,9 @@ Flavor:
 - Fallout Equestria: Disciples of Equality
 
 Name:
-
+Skaak
 Gender:
-
+Male
 Race:
 Zebra
 Time
@@ -75,7 +75,7 @@ Disciples of Equality
 Ability:
 
 Flavor:
-""
+"Eris, you hack terminals and Tulip picks locks. Me, I fight with everything I've got and even kill if needed."
 - Fallout Equestria: Disciples of Equality
 
 Name:
