@@ -127,5 +127,5 @@ Points:
 Objective:
 Win this Goal when: The grid is reset to only the Start card. This Goal is worth 4 points if Eris Medley's ability is used.
 Flavor:
-""
+"The world I found myself in is so different from what it was. No raiders, rangers, stable dwellers, or even disciples. Just ponies living in harmony, a princess of friendship, and no radiation to speak of. Almost like none of it had happened."
 - Fallout Equestria: Disciples of Equality
