@@ -1,5 +1,5 @@
 # TSSSF-Expansions
-A collection of expansions I have made for the Twilight Sparkle's Secret Shipfic Folder card game.
+A collection of expansions I have made for the Twilight Sparkle's Secret Shipfic Folder card game. I don't know how to use the CardMachine script, so don't expect to be able to download a pdf. One of these days though, I'll find a way to add the designs to Printer's Studio or MPC and sell them from there.
 
 ## Murf n' Nyan Productions - Finished
 A pack of nine cards based on my friends and I. I made these back when I was still in college and only recently updated them. I also asked my friends what power they wanted on their cards, so if they seem a bit over powered, that's why.
