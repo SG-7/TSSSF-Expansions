@@ -14,7 +14,7 @@ Ship - You've Been Justice'd,
 Goal - Lover's Lightning,
 Goal - Murf n' Nyan Productions
 
-## Murf n' Nyan Expansion 2 - TBA
+## Murf n' Nyan Expansion 2 - TBD
 Not sure if this will end up being completed. There are a few ideas that have been written down, but we'll see.
 
 ## Fallout Equestria: Disciples of Equality - WIP
