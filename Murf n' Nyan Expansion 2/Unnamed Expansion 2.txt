@@ -93,7 +93,7 @@ Goal Points:
 Expansion:
 Murf n' Nyan Productions
 Card Text:
-Win this Goal when: Yo-yo is shipped with anypony with the Murf n' Nyan keyword.
+Win this Goal when: Tagori is shipped with anypony with the Murf n' Nyan keyword.
 Flavor Text:
 "Despite the falling out, they decided they could remain civil if they ever saw each other again."
 -The Chaos Chronicles
@@ -104,7 +104,7 @@ Goal Points:
 Expansion:
 Murf n'Nyan Productions
 Card Text:
-Win this Goal when: Use a single Love Poison to cause one Pony of each race to be discarded from the board.
+Win this Goal when: Use a single Love Poison to cause one Pony of each race to be removed from the grid.
 Flavor Text:
 "A large quantity of love poison got into the water supply, affecting everypony..."
 -The Chaos Chronicles

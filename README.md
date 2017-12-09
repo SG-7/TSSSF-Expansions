@@ -17,6 +17,16 @@ Goal - Murf n' Nyan Productions
 ## Murf n' Nyan Expansion 2 - Soon...
 Not sure if this will end up being completed. There are a few ideas that have been written down, but we'll see. Looking at it again, it seems that this expansion is almost complete. I'll take another look later and maybe finish the text portion of the cards before working on the art for Disciples of Equality.
 
+### Card List
+Pony - Charles Taylor,
+Pony - The Dandy,
+Pony - Red Meadow,
+Pony - Tagori,
+Ship - Chastity Weiner,
+Ship - Pelvic Sorcery,
+Goal - Change of Heart,
+Goal - Poisoning the Herd
+
 ## Fallout Equestria: Disciples of Equality - WIP
 A pack of nine (or more) cards based on a story I was going to write in the Fallout Equestria universe. The Disciples of Equality follow the teachings of Starlight Glimmer (pre-redemption) and treat everyone as equals. However, her daughter may be able to end the fighting in the wasteland once and for all.
 ### Card List
@@ -26,5 +36,8 @@ Pony - Lens Flare,
 Pony - Tulip Breeze,
 Pony - Skaak,
 Pony - Knuteson,
+Pony - The Dealer,
 Ship - Charm of the Wasteland,
-Goal - Worldine Σ
+Ship - Up the Ante x7,
+Goal - Worldine Σ,
+Goal - Ante Up!
