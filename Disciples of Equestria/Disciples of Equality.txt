@@ -73,7 +73,7 @@ Time
 Keywords:
 Disciples of Equality
 Ability:
-Silent Assassin (Replace): {replace}
+
 Flavor:
 "Eris, you hack terminals and Tulip picks locks. Me, I fight with everything I've got and even kill if needed."
 - Fallout Equestria: Disciples of Equality
@@ -108,6 +108,23 @@ Flavor:
 ""
 - Fallout Equestria: Disciples of Equality
 
+Name:
+The Dealer
+Art:
+By: MisterMech
+Gender:
+Multi
+Race:
+Changeling Alicorn
+Time
+Keywords:
+Ante Up
+Ability:
+Collect the Ante Up! Goal.
+Flavor:
+""
+- Fallout Equestria: Project Horizons
+
 SHIPS:
 
 Name:
@@ -117,6 +134,62 @@ Ability:
 Flavor:
 "I'm not sure if that's the radiation or something else, but in my eyes, she's glowing."
 - Fallout Equestria: Disciples of Equality
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Lust"
+- Fallout Equestria: Starlight
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Gluttony"
+- Fallout Equestria: Starlight
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Greed"
+- Fallout Equestria: Starlight
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Sloth"
+- Fallout Equestria: Starlight
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Wrath"
+- Fallout Equestria: Starlight
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Envy"
+- Fallout Equestria: Starlight
+
+Name:
+Up the Ante
+Ability:
+Add 1 to the Ante.
+Flavor:
+"Pride"
+- Fallout Equestria: Starlight
 
 GOALS:
 
@@ -129,3 +202,16 @@ Win this Goal when: The grid is reset to only the Start card. This Goal is worth
 Flavor:
 "The world I found myself in is so different from what it was. No raiders, rangers, stable dwellers, or even disciples. Just ponies living in harmony, a princess of friendship, and no radiation to speak of. Almost like none of it had happened."
 - Fallout Equestria: Disciples of Equality
+
+Name:
+Ante Up!
+Art:
+By PrismSpark
+Points:
+0
+Objective:
+Win this Goal when: The Dealer is played. Count the number of Up the Ante Ships.
+Gain that many points.
+Flavor:
+"Ante up BlackJack, ante up..."
+- Fallout Equestria: Project Horizons
