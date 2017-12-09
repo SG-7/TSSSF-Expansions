@@ -1,0 +1,110 @@
+Copyright:
+Murf n' Nyan; TSSSF by Horrible People Games.  Art by Chaos Beat.
+
+PONIES:
+
+Charles Taylor
+Gender:
+Male
+Race:
+Pegasus
+Expansion:
+Murf n' Nyan Productions
+Keywords:
+OC, Batpony
+Ability:
+English Accent (Special): This Pony can only be shipped with Females.
+Flavor Text:
+"The mind can affect the body, Chaos found out through another spell gone wrong."
+-The Chaos Chronicles
+
+The Dandy
+Gender:
+Male
+Race:
+Earth
+Expansion:
+Murf n' Nyan Productions
+Keywords:
+OC, Checker Shade
+Ability:
+Like a Queen (Draw):If any Pony of the opposite gender is shipped with this Pony, draw a card from the Ship or Pony deck.
+Flavor Text:
+"He only focuses on her, she is his special somepony, he treats her like a queen."
+-The Chaos Chronicles
+
+Red Meadow
+Gender
+Female
+Race:
+Alicorn
+Expansion:
+Murf n' Nyan Productions
+Keywords:
+OC
+Ability:
+Paint the Town (Special): Discard all Ship cards connected to Fanfic Author Twilight.
+Flavor Text:
+"In a explosion dark magic, Blue Button turned on us all and reset the world..."
+-The Chaos Chronicles
+
+Tagori
+Gender:
+Male
+Race:
+Unicorn
+Expansion:
+Murf n' Nyan Productions
+Keywords:
+OC, Villain
+Ability:
+Chastity Weiner (Special): Remove all ship cards connected to any Pony with the Murf n' Nyan keyword.
+Flavor Text:
+"I found this in the desk drawer, I don't know what it is..."
+-The Chaos Chronicles
+
+SHIPS:
+
+Chastity Weiner
+Art:
+Cartoon drawer with censor bar
+Expansion:
+Murf n' Nyan Productions
+Ability:
+
+Flavor Text:
+"Oh look! There's attachments..."
+-The Chaos Chronicles
+
+Pelvic Sorcery
+Expansion:
+Murf n' Nyan Productions
+Ability:
+When this card is used in a Ship, remove a Ship connecting two Ponies.
+Flavor Text:
+"She said 'She wouldn't succumb to my pelvic sorcery,' but eventually she gave in..."
+- The Chaos Chronicles
+
+GOALS:
+
+Change of Heart
+Goal Points:
+1
+Expansion:
+Murf n' Nyan Productions
+Card Text:
+Win this Goal when: Yo-yo is shipped with anypony with the Murf n' Nyan keyword.
+Flavor Text:
+"Despite the falling out, they decided they could remain civil if they ever saw each other again."
+-The Chaos Chronicles
+
+Poisoning the Herd
+Goal Points:
+2
+Expansion:
+Murf n'Nyan Productions
+Card Text:
+Win this Goal when: Use a single Love Poison to cause one Pony of each race to be discarded from the board.
+Flavor Text:
+"A large quantity of love poison got into the water supply, affecting everypony..."
+-The Chaos Chronicles
