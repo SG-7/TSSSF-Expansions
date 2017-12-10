@@ -137,6 +137,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Pegasus Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
@@ -145,6 +147,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Earth Pony Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
@@ -153,6 +157,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Unicorn Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
@@ -161,6 +167,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Donkey Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
@@ -169,6 +177,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Minotaur Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
@@ -177,6 +187,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Zebra Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
@@ -185,6 +197,8 @@ Flavor:
 
 Name:
 Up the Ante
+Art:
+Alicorn Chip
 Ability:
 Add 1 to the Ante.
 Flavor:
