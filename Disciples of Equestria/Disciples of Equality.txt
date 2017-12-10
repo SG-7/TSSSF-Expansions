@@ -122,7 +122,7 @@ Ante Up
 Ability:
 Collect the Ante Up! Goal.
 Flavor:
-""
+"So, who dies this time?"
 - Fallout Equestria: Project Horizons
 
 SHIPS:
