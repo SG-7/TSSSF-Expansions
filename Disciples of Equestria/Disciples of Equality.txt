@@ -120,7 +120,7 @@ Time
 Keywords:
 Ante Up
 Ability:
-Playing the Game:
+Dealer's Ante:
 Collect the Ante Up! Goal.
 Flavor:
 "So, who dies this time?"
